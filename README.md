@@ -7,5 +7,8 @@
 🔧 Working on the German [Star Citizen Wiki](https://star-citizen.wiki) <br>
 🌐 My website [SpaceEnergy](https://skyenergy0.github.io) (still in progress)
 
-## 🌱 I’m currently learning:
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+## 🌱 What I'm learning right now:
+<img src="https://github.com/SpaceEnergy/SpaceEnergy/blob/main/HTML.svg" alt="HTML"> <img src="https://github.com/SpaceEnergy/SpaceEnergy/blob/main/CSS.svg" alt="CSS"> <img src="https://github.com/SpaceEnergy/SpaceEnergy/blob/main/PHP.svg" alt="PHP"> <img src="https://github.com/SpaceEnergy/SpaceEnergy/blob/main/MYSQL.svg" alt="MySQL">
+
+## 🌱 What I want to learn:
+<img src="https://github.com/SpaceEnergy/SpaceEnergy/blob/main/JavaScript.svg" alt="JavaScript"> <img src="https://github.com/SpaceEnergy/SpaceEnergy/blob/main/Three.js.svg" alt="Three.js"> <img src="https://github.com/SpaceEnergy/SpaceEnergy/blob/main/Python.svg" alt="Python">
