@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 500 50" width="500" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="500" height="100">
+<svg fill="none" viewBox="0 0 500 60" width="500" height="60" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="500" height="60">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         @keyframes hi  {
@@ -17,8 +17,8 @@
           display: flex;
           justify-content: center;
           align-items: center;
+          height: 60px;
           color: white;
-
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
