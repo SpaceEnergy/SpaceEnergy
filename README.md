@@ -1,4 +1,4 @@
-![Hello](./hello.svg)
+<img src="./hello.svg" alt="Hello">
 
 ## 💫 About Me:
 🧑 I am 16 years old. <br>
