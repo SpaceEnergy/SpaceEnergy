@@ -5,7 +5,7 @@
 🔭 My current project [SpaceThemes](https://github.com/SkyEnergy0/SpaceTheme-Discord) <br>
 🤝 [Discord server](https://discord.gg/7Zv8Xz3Vzn) for SpaceThemes <br>
 🔧 Working on the German [Star Citizen Wiki](https://star-citizen.wiki) <br>
-🌐 My website [SpaceEnergy](https://skyenergy0.github.io) (still in progress)
+🌐 My website [SpaceHQ](https://spaceenergy.github.io) (still in progress)
 
 ## 📊 User Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
