@@ -2,10 +2,10 @@
 
 ## 💫 About Me:
 🧑 I am 17 years old. <br>
-🔭 My current project [SpaceThemes](https://github.com/SkyEnergy0/SpaceTheme-Discord) <br>
+🔭 My current project [SpaceThemes](https://spaceenergy.github.io/projects/spacetheme/) <br>
 🤝 [Discord server](https://discord.gg/7Zv8Xz3Vzn) for SpaceThemes <br>
 🔧 Working on the German [Star Citizen Wiki](https://star-citizen.wiki) <br>
-🌐 My website [SpaceHQ](https://spaceenergy.github.io) (still in progress)
+🌐 My [website](https://spaceenergy.github.io)
 
 ## 📊 User Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
