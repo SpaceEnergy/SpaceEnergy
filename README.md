@@ -1,7 +1,7 @@
 <img src="./hello.svg" alt="Hello">
 
 ## 💫 About Me:
-🧑 I am 17 years old. <br>
+🧑 I am 18 years old. <br>
 🔭 My current project [SpaceThemes](https://spaceenergy.github.io/projects/spacetheme/) <br>
 🤝 [Discord server](https://discord.gg/7Zv8Xz3Vzn) for SpaceThemes <br>
 🔧 Working on the German [Star Citizen Wiki](https://star-citizen.wiki) <br>
