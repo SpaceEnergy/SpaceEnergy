@@ -24,7 +24,7 @@ jobs:
       env:
         BRANCH_NAME: ${{ github.ref_name }}
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         COMMIT_MESSAGE: "update metrics"
         WAKATIME_RANGE: "all_time"
         WAKATIME_DATA: "EDITORS,LANGUAGES,PROJECTS,OPERATING_SYSTEMS"
