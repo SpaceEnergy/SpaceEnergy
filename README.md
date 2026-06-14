@@ -68,43 +68,24 @@ Others                                        ░░░░░░░░░░░�
 **🔥 I Mostly Code in CSS**
 
 ```text
-CSS                       5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32%
-TypeScript                4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05%
-JavaScript                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53%
-HTML                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53%
-Shell                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53%
-Go                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26%
-Lua                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26%
-QML                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26%
-C++                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26%
+CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
+Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
+PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
+Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
+HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 ```
 
 **💬 Languages & Tools**
 
-![CSS](https://img.shields.io/badge/CSS-28.80%25-663399?&logo=CSS&labelColor=151b23)
-![TypeScript](https://img.shields.io/badge/TypeScript-27.26%25-3178c6?&logo=TypeScript&labelColor=151b23)
-![HTML](https://img.shields.io/badge/HTML-17.88%25-e34c26?&logo=HTML&labelColor=151b23)
-![C++](https://img.shields.io/badge/C++-09.04%25-f34b7d?&logo=C++&labelColor=151b23)
-![QML](https://img.shields.io/badge/QML-06.28%25-44a51c?&logo=QML&labelColor=151b23)
-![JavaScript](https://img.shields.io/badge/JavaScript-04.92%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![Vue](https://img.shields.io/badge/Vue-02.54%25-41b883?&logo=Vue&labelColor=151b23)
-![Go](https://img.shields.io/badge/Go-01.03%25-00ADD8?&logo=Go&labelColor=151b23)
-![C](https://img.shields.io/badge/C-00.64%25-555555?&logo=C&labelColor=151b23)
-![Shell](https://img.shields.io/badge/Shell-00.45%25-89e051?&logo=Shell&labelColor=151b23)
-![CMake](https://img.shields.io/badge/CMake-00.43%25-DA3434?&logo=CMake&labelColor=151b23)
-![Python](https://img.shields.io/badge/Python-00.13%25-3572A5?&logo=Python&labelColor=151b23)
-![Lua](https://img.shields.io/badge/Lua-00.12%25-000080?&logo=Lua&labelColor=151b23)
-![PowerShell](https://img.shields.io/badge/PowerShell-00.11%25-012456?&logo=PowerShell&labelColor=151b23)
-![Nix](https://img.shields.io/badge/Nix-00.10%25-7e7eff?&logo=Nix&labelColor=151b23)
-![Rust](https://img.shields.io/badge/Rust-00.09%25-dea584?&logo=Rust&labelColor=151b23)
-![Objective-C++](https://img.shields.io/badge/Objective-C++-00.09%25-6866fb?&logo=Objective-C++&labelColor=151b23)
-![GLSL](https://img.shields.io/badge/GLSL-00.07%25-5686a5?&logo=GLSL&labelColor=151b23)
-![Mustache](https://img.shields.io/badge/Mustache-00.01%25-724b3b?&logo=Mustache&labelColor=151b23)
-![Makefile](https://img.shields.io/badge/Makefile-00.00%25-427819?&logo=Makefile&labelColor=151b23)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-00.00%25-384d54?&logo=Dockerfile&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-85.34%25-563d7c?&logo=CSS&labelColor=151b23)
+![HTML](https://img.shields.io/badge/HTML-10.28%25-e34c26?&logo=HTML&labelColor=151b23)
+![JavaScript](https://img.shields.io/badge/JavaScript-02.14%25-f1e05a?&logo=JavaScript&labelColor=151b23)
+![Markdown](https://img.shields.io/badge/Markdown-01.66%25-083fa1?&logo=Markdown&labelColor=151b23)
+![PowerShell](https://img.shields.io/badge/PowerShell-00.52%25-012456?&logo=PowerShell&labelColor=151b23)
+![Shell](https://img.shields.io/badge/Shell-00.06%25-89e051?&logo=Shell&labelColor=151b23)
 
 
 
 
-⏳ *Last updated on 14.06.2026 17:50:48 CEST*
+⏳ *Last updated on 14.06.2026 19:27:49 CEST*
 <!--END_SECTION:readme-stats-->
