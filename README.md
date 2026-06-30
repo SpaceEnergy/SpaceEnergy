@@ -14,10 +14,6 @@
 ```text
 🔥 Current Streak:        0 days
 🏆 Longest Streak:        27 days
-📊 Daily Average:         1 hrs 18 mins
-💪 Total Coding Time:     712 hrs 43 mins
-🎯 Coding Consistency:    55.8%
-📅 Active Days:           546 days
 ```
 
 **🕒 I'm A Twilight Taskmaster 🌆**
@@ -41,37 +37,27 @@ Friday                    216 commits         ███░░░░░░░░�
 Saturday                  315 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56%
 ```
 
-**📅 Last 7 Days Stats**
+**🔥 I Mostly Code in Markdown**
 
 ```text
-📝 Editors:
-No data available
-
-💬 Languages:
-No data available
-```
-
-**🔥 I Mostly Code in CSS**
-
-```text
-CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
+CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
-Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
+Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 ```
 
 **💬 Languages & Tools**
 
-![CSS](https://img.shields.io/badge/CSS-85.36%25-563d7c?&logo=CSS&labelColor=151b23)
-![HTML](https://img.shields.io/badge/HTML-10.27%25-e34c26?&logo=HTML&labelColor=151b23)
-![JavaScript](https://img.shields.io/badge/JavaScript-02.14%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![Markdown](https://img.shields.io/badge/Markdown-01.66%25-083fa1?&logo=Markdown&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-85.37%25-563d7c?&logo=CSS&labelColor=151b23)
+![HTML](https://img.shields.io/badge/HTML-10.26%25-e34c26?&logo=HTML&labelColor=151b23)
+![JavaScript](https://img.shields.io/badge/JavaScript-02.13%25-f1e05a?&logo=JavaScript&labelColor=151b23)
+![Markdown](https://img.shields.io/badge/Markdown-01.65%25-083fa1?&logo=Markdown&labelColor=151b23)
 ![PowerShell](https://img.shields.io/badge/PowerShell-00.52%25-012456?&logo=PowerShell&labelColor=151b23)
 ![Shell](https://img.shields.io/badge/Shell-00.06%25-89e051?&logo=Shell&labelColor=151b23)
 
 
 
 
-⏳ *Last updated on 30.06.2026 22:16:48 CEST*
+⏳ *Last updated on 01.07.2026 01:20:39 CEST*
 <!--END_SECTION:readme-stats-->
