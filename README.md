@@ -51,11 +51,11 @@ No data available
 No data available
 ```
 
-**🔥 I Mostly Code in CSS**
+**🔥 I Mostly Code in Markdown**
 
 ```text
-CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
+CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
 HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
@@ -63,15 +63,15 @@ Shell                     1 repo              ██░░░░░░░░░�
 
 **💬 Languages & Tools**
 
-![CSS](https://img.shields.io/badge/CSS-85.37%25-563d7c?&logo=CSS&labelColor=151b23)
-![HTML](https://img.shields.io/badge/HTML-10.26%25-e34c26?&logo=HTML&labelColor=151b23)
-![JavaScript](https://img.shields.io/badge/JavaScript-02.13%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![Markdown](https://img.shields.io/badge/Markdown-01.65%25-083fa1?&logo=Markdown&labelColor=151b23)
-![PowerShell](https://img.shields.io/badge/PowerShell-00.52%25-012456?&logo=PowerShell&labelColor=151b23)
-![Shell](https://img.shields.io/badge/Shell-00.06%25-89e051?&logo=Shell&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-87.57%25-563d7c?&logo=CSS&labelColor=151b23)
+![HTML](https://img.shields.io/badge/HTML-07.95%25-e34c26?&logo=HTML&labelColor=151b23)
+![JavaScript](https://img.shields.io/badge/JavaScript-02.19%25-f1e05a?&logo=JavaScript&labelColor=151b23)
+![Markdown](https://img.shields.io/badge/Markdown-01.70%25-083fa1?&logo=Markdown&labelColor=151b23)
+![PowerShell](https://img.shields.io/badge/PowerShell-00.53%25-012456?&logo=PowerShell&labelColor=151b23)
+![Shell](https://img.shields.io/badge/Shell-00.07%25-89e051?&logo=Shell&labelColor=151b23)
 
 
 
 
-⏳ *Last updated on 02.07.2026 12:49:31 CEST*
+⏳ *Last updated on 02.07.2026 19:56:31 CEST*
 <!--END_SECTION:readme-stats-->
