@@ -14,6 +14,10 @@
 ```text
 🔥 Current Streak:        0 days
 🏆 Longest Streak:        27 days
+📊 Daily Average:         1 hrs 17 mins
+💪 Total Coding Time:     712 hrs 54 mins
+🎯 Coding Consistency:    54.6%
+📅 Active Days:           548 days
 ```
 
 **🕒 I'm A Twilight Taskmaster 🌆**
@@ -69,5 +73,5 @@ HTML                      1 repo              ██░░░░░░░░░�
 
 
 
-⏳ *Last updated on 25.07.2026 04:59:03 CEST*
+⏳ *Last updated on 25.07.2026 08:23:57 CEST*
 <!--END_SECTION:readme-stats-->
