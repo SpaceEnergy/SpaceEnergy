@@ -37,6 +37,17 @@ Friday                    216 commits         ███░░░░░░░░�
 Saturday                  315 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54%
 ```
 
+**📅 Last 7 Days Stats**
+
+```text
+📝 Editors:
+VS Code                   1 hr                █████████████████████████   100.00%
+
+💬 Languages:
+CSS                       53 mins             ██████████████████████░░░   88.47%
+Others                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.53%
+```
+
 **🔥 I Mostly Code in CSS**
 
 ```text
@@ -59,5 +70,5 @@ HTML                      1 repo              ██░░░░░░░░░�
 
 
 
-⏳ *Last updated on 29.07.2026 01:07:00 CEST*
+⏳ *Last updated on 29.07.2026 04:58:11 CEST*
 <!--END_SECTION:readme-stats-->
