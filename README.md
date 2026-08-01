@@ -15,30 +15,30 @@
 🔥 Current Streak:        2 days
 🏆 Longest Streak:        27 days
 📊 Daily Average:         1 hrs 17 mins
-💪 Total Coding Time:     715 hrs 6 mins
-🎯 Coding Consistency:    54.7%
-📅 Active Days:           552 days
+💪 Total Coding Time:     716 hrs 37 mins
+🎯 Coding Consistency:    54.8%
+📅 Active Days:           553 days
 ```
 
 **🕒 I'm A Twilight Taskmaster 🌆**
 
 ```text
 🌅 Morning                232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39%
-🌞 Daytime                498 commits         ██████░░░░░░░░░░░░░░░░░░░   24.46%
-🌆 Evening                716 commits         █████████░░░░░░░░░░░░░░░░   35.17%
-🌙 Night                  590 commits         ███████░░░░░░░░░░░░░░░░░░   28.98%
+🌞 Daytime                498 commits         ██████░░░░░░░░░░░░░░░░░░░   24.45%
+🌆 Evening                717 commits         █████████░░░░░░░░░░░░░░░░   35.20%
+🌙 Night                  590 commits         ███████░░░░░░░░░░░░░░░░░░   28.96%
 ```
 
 **📅 I'm Most Productive on Sunday**
 
 ```text
-Sunday                    413 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28%
-Monday                    341 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75%
+Sunday                    413 commits         █████░░░░░░░░░░░░░░░░░░░░   20.27%
+Monday                    341 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74%
 Tuesday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05%
-Wednesday                 283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90%
-Thursday                  237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64%
-Friday                    219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76%
-Saturday                  318 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62%
+Wednesday                 283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89%
+Thursday                  237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63%
+Friday                    219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75%
+Saturday                  319 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66%
 ```
 
 **📅 Last 7 Days Stats**
@@ -55,11 +55,11 @@ Bash                      16 mins             ███░░░░░░░░�
 Others                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34%
 ```
 
-**🔥 I Mostly Code in CSS**
+**🔥 I Mostly Code in Markdown**
 
 ```text
-CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
+CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
 HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
@@ -67,8 +67,8 @@ Shell                     1 repo              ██░░░░░░░░░�
 
 **💬 Languages & Tools**
 
-![CSS](https://img.shields.io/badge/CSS-84.95%25-563d7c?&logo=CSS&labelColor=151b23)
-![HTML](https://img.shields.io/badge/HTML-10.63%25-e34c26?&logo=HTML&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-84.96%25-563d7c?&logo=CSS&labelColor=151b23)
+![HTML](https://img.shields.io/badge/HTML-10.62%25-e34c26?&logo=HTML&labelColor=151b23)
 ![JavaScript](https://img.shields.io/badge/JavaScript-02.15%25-f1e05a?&logo=JavaScript&labelColor=151b23)
 ![Markdown](https://img.shields.io/badge/Markdown-01.64%25-083fa1?&logo=Markdown&labelColor=151b23)
 ![PowerShell](https://img.shields.io/badge/PowerShell-00.51%25-012456?&logo=PowerShell&labelColor=151b23)
@@ -77,5 +77,5 @@ Shell                     1 repo              ██░░░░░░░░░�
 
 
 
-⏳ *Last updated on 01.08.2026 17:07:35 CEST*
+⏳ *Last updated on 01.08.2026 19:07:05 CEST*
 <!--END_SECTION:readme-stats-->
