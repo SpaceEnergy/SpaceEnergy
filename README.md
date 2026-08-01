@@ -15,30 +15,30 @@
 🔥 Current Streak:        2 days
 🏆 Longest Streak:        27 days
 📊 Daily Average:         1 hrs 17 mins
-💪 Total Coding Time:     716 hrs 37 mins
-🎯 Coding Consistency:    54.8%
-📅 Active Days:           553 days
+💪 Total Coding Time:     718 hrs 8 mins
+🎯 Coding Consistency:    54.9%
+📅 Active Days:           554 days
 ```
 
 **🕒 I'm A Twilight Taskmaster 🌆**
 
 ```text
-🌅 Morning                232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38%
-🌞 Daytime                498 commits         ██████░░░░░░░░░░░░░░░░░░░   24.44%
-🌆 Evening                718 commits         █████████░░░░░░░░░░░░░░░░   35.23%
-🌙 Night                  590 commits         ███████░░░░░░░░░░░░░░░░░░   28.95%
+🌅 Morning                232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36%
+🌞 Daytime                498 commits         ██████░░░░░░░░░░░░░░░░░░░   24.39%
+🌆 Evening                722 commits         █████████░░░░░░░░░░░░░░░░   35.36%
+🌙 Night                  590 commits         ███████░░░░░░░░░░░░░░░░░░   28.89%
 ```
 
 **📅 I'm Most Productive on Sunday**
 
 ```text
-Sunday                    413 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26%
-Monday                    341 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73%
-Tuesday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04%
-Wednesday                 283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89%
-Thursday                  237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63%
-Friday                    219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75%
-Saturday                  320 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70%
+Sunday                    413 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23%
+Monday                    341 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70%
+Tuesday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02%
+Wednesday                 283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86%
+Thursday                  237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61%
+Friday                    219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72%
+Saturday                  324 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87%
 ```
 
 **📅 Last 7 Days Stats**
@@ -55,14 +55,14 @@ Bash                      16 mins             ███░░░░░░░░�
 Others                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34%
 ```
 
-**🔥 I Mostly Code in Markdown**
+**🔥 I Mostly Code in CSS**
 
 ```text
-Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
+Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
-HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
+HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 ```
 
 **💬 Languages & Tools**
@@ -77,5 +77,5 @@ Shell                     1 repo              ██░░░░░░░░░�
 
 
 
-⏳ *Last updated on 01.08.2026 21:17:25 CEST*
+⏳ *Last updated on 01.08.2026 23:00:39 CEST*
 <!--END_SECTION:readme-stats-->
