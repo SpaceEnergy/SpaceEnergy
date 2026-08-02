@@ -15,9 +15,9 @@
 🔥 Current Streak:        3 days
 🏆 Longest Streak:        27 days
 📊 Daily Average:         1 hrs 17 mins
-💪 Total Coding Time:     714 hrs 52 mins
-🎯 Coding Consistency:    54.6%
-📅 Active Days:           552 days
+💪 Total Coding Time:     720 hrs 8 mins
+🎯 Coding Consistency:    54.8%
+📅 Active Days:           554 days
 ```
 
 **🤖 My Week in AI**
@@ -72,8 +72,8 @@ Others                    4 mins              ░░░░░░░░░░░�
 CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
-Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
+Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 ```
 
 **💬 Languages & Tools**
@@ -88,5 +88,5 @@ HTML                      1 repo              ██░░░░░░░░░�
 
 
 
-⏳ *Last updated on 02.08.2026 05:22:40 CEST*
+⏳ *Last updated on 02.08.2026 08:40:31 CEST*
 <!--END_SECTION:readme-stats-->
