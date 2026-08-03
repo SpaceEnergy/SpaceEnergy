@@ -14,8 +14,8 @@
 ```text
 🔥 Current Streak:        3 days
 🏆 Longest Streak:        27 days
-📊 Daily Average:         1 hrs 17 mins
-💪 Total Coding Time:     718 hrs 19 mins
+📊 Daily Average:         1 hrs 18 mins
+💪 Total Coding Time:     720 hrs 8 mins
 🎯 Coding Consistency:    54.6%
 📅 Active Days:           553 days
 ```
@@ -66,14 +66,14 @@ JavaScript                35 mins             ██░░░░░░░░░�
 Others                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30%
 ```
 
-**🔥 I Mostly Code in CSS**
+**🔥 I Mostly Code in Markdown**
 
 ```text
-CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
+CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
-Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
+Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 ```
 
 **💬 Languages & Tools**
@@ -88,5 +88,5 @@ HTML                      1 repo              ██░░░░░░░░░�
 
 
 
-⏳ *Last updated on 03.08.2026 05:24:19 CEST*
+⏳ *Last updated on 03.08.2026 09:35:14 CEST*
 <!--END_SECTION:readme-stats-->
