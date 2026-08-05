@@ -66,27 +66,27 @@ JavaScript                35 mins             ██░░░░░░░░░�
 Others                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48%
 ```
 
-**🔥 I Mostly Code in Markdown**
+**🔥 I Mostly Code in CSS**
 
 ```text
-Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
+Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
-HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
+HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 ```
 
 **💬 Languages & Tools**
 
-![CSS](https://img.shields.io/badge/CSS-84.52%25-563d7c?&logo=CSS&labelColor=151b23)
-![HTML](https://img.shields.io/badge/HTML-10.58%25-e34c26?&logo=HTML&labelColor=151b23)
-![JavaScript](https://img.shields.io/badge/JavaScript-02.50%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![Markdown](https://img.shields.io/badge/Markdown-01.63%25-083fa1?&logo=Markdown&labelColor=151b23)
-![PowerShell](https://img.shields.io/badge/PowerShell-00.51%25-012456?&logo=PowerShell&labelColor=151b23)
-![Shell](https://img.shields.io/badge/Shell-00.26%25-89e051?&logo=Shell&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-86.67%25-563d7c?&logo=CSS&labelColor=151b23)
+![HTML](https://img.shields.io/badge/HTML-08.31%25-e34c26?&logo=HTML&labelColor=151b23)
+![JavaScript](https://img.shields.io/badge/JavaScript-02.56%25-f1e05a?&logo=JavaScript&labelColor=151b23)
+![Markdown](https://img.shields.io/badge/Markdown-01.67%25-083fa1?&logo=Markdown&labelColor=151b23)
+![PowerShell](https://img.shields.io/badge/PowerShell-00.52%25-012456?&logo=PowerShell&labelColor=151b23)
+![Shell](https://img.shields.io/badge/Shell-00.27%25-89e051?&logo=Shell&labelColor=151b23)
 
 
 
 
-⏳ *Last updated on 05.08.2026 08:35:42 CEST*
+⏳ *Last updated on 05.08.2026 12:44:23 CEST*
 <!--END_SECTION:readme-stats-->
