@@ -14,6 +14,10 @@
 ```text
 🔥 Current Streak:        0 days
 🏆 Longest Streak:        27 days
+📊 Daily Average:         1 hrs 18 mins
+💪 Total Coding Time:     720 hrs 8 mins
+🎯 Coding Consistency:    54.4%
+📅 Active Days:           553 days
 ```
 
 **🤖 My Week in AI**
@@ -84,5 +88,5 @@ Shell                     1 repo              ██░░░░░░░░░�
 
 
 
-⏳ *Last updated on 07.08.2026 06:31:42 CEST*
+⏳ *Last updated on 07.08.2026 09:24:48 CEST*
 <!--END_SECTION:readme-stats-->
