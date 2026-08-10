@@ -51,14 +51,14 @@ No data available
 No data available
 ```
 
-**🔥 I Mostly Code in CSS**
+**🔥 I Mostly Code in Markdown**
 
 ```text
-CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
+CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
-Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
+Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 ```
 
 **💬 Languages & Tools**
@@ -73,5 +73,5 @@ HTML                      1 repo              ██░░░░░░░░░�
 
 
 
-⏳ *Last updated on 10.08.2026 17:05:32 CEST*
+⏳ *Last updated on 10.08.2026 19:00:55 CEST*
 <!--END_SECTION:readme-stats-->
