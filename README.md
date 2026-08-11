@@ -14,10 +14,6 @@
 ```text
 🔥 Current Streak:        0 days
 🏆 Longest Streak:        27 days
-📊 Daily Average:         1 hrs 18 mins
-💪 Total Coding Time:     720 hrs 8 mins
-🎯 Coding Consistency:    54.2%
-📅 Active Days:           553 days
 ```
 
 **🕒 I'm A Twilight Taskmaster 🌆**
@@ -41,37 +37,27 @@ Friday                    219 commits         ███░░░░░░░░�
 Saturday                  324 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84%
 ```
 
-**📅 Last 7 Days Stats**
+**🔥 I Mostly Code in CSS**
 
 ```text
-📝 Editors:
-No data available
-
-💬 Languages:
-No data available
-```
-
-**🔥 I Mostly Code in Markdown**
-
-```text
-Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
+Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
-HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
+HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 ```
 
 **💬 Languages & Tools**
 
-![CSS](https://img.shields.io/badge/CSS-84.52%25-563d7c?&logo=CSS&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-84.53%25-563d7c?&logo=CSS&labelColor=151b23)
 ![HTML](https://img.shields.io/badge/HTML-10.58%25-e34c26?&logo=HTML&labelColor=151b23)
 ![JavaScript](https://img.shields.io/badge/JavaScript-02.50%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![Markdown](https://img.shields.io/badge/Markdown-01.63%25-083fa1?&logo=Markdown&labelColor=151b23)
+![Markdown](https://img.shields.io/badge/Markdown-01.62%25-083fa1?&logo=Markdown&labelColor=151b23)
 ![PowerShell](https://img.shields.io/badge/PowerShell-00.51%25-012456?&logo=PowerShell&labelColor=151b23)
 ![Shell](https://img.shields.io/badge/Shell-00.26%25-89e051?&logo=Shell&labelColor=151b23)
 
 
 
 
-⏳ *Last updated on 11.08.2026 22:54:32 CEST*
+⏳ *Last updated on 12.08.2026 00:51:25 CEST*
 <!--END_SECTION:readme-stats-->
