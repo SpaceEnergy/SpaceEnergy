@@ -57,21 +57,21 @@ No data available
 Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
-Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
+Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 ```
 
 **💬 Languages & Tools**
 
-![CSS](https://img.shields.io/badge/CSS-84.53%25-563d7c?&logo=CSS&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-84.52%25-563d7c?&logo=CSS&labelColor=151b23)
 ![HTML](https://img.shields.io/badge/HTML-10.58%25-e34c26?&logo=HTML&labelColor=151b23)
 ![JavaScript](https://img.shields.io/badge/JavaScript-02.50%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![Markdown](https://img.shields.io/badge/Markdown-01.62%25-083fa1?&logo=Markdown&labelColor=151b23)
+![Markdown](https://img.shields.io/badge/Markdown-01.63%25-083fa1?&logo=Markdown&labelColor=151b23)
 ![PowerShell](https://img.shields.io/badge/PowerShell-00.51%25-012456?&logo=PowerShell&labelColor=151b23)
 ![Shell](https://img.shields.io/badge/Shell-00.26%25-89e051?&logo=Shell&labelColor=151b23)
 
 
 
 
-⏳ *Last updated on 12.08.2026 04:15:53 CEST*
+⏳ *Last updated on 12.08.2026 07:44:20 CEST*
 <!--END_SECTION:readme-stats-->
