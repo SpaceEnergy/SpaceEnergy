@@ -52,11 +52,11 @@ CSS                       2 hrs 49 mins       ███████████�
 Others                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63%
 ```
 
-**🔥 I Mostly Code in CSS**
+**🔥 I Mostly Code in Markdown**
 
 ```text
-CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
+CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
 HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
@@ -74,5 +74,5 @@ Shell                     1 repo              ██░░░░░░░░░�
 
 
 
-⏳ *Last updated on 25.08.2026 08:57:55 CEST*
+⏳ *Last updated on 25.08.2026 10:51:23 CEST*
 <!--END_SECTION:readme-stats-->
