@@ -14,10 +14,6 @@
 ```text
 🔥 Current Streak:        0 days
 🏆 Longest Streak:        27 days
-📊 Daily Average:         1 hrs 17 mins
-💪 Total Coding Time:     723 hrs 32 mins
-🎯 Coding Consistency:    53.8%
-📅 Active Days:           557 days
 ```
 
 **🕒 I'm A Twilight Taskmaster 🌆**
@@ -39,17 +35,6 @@ Wednesday                 284 commits         ███░░░░░░░░�
 Thursday                  238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58%
 Friday                    219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66%
 Saturday                  324 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77%
-```
-
-**📅 Last 7 Days Stats**
-
-```text
-📝 Editors:
-VS Code                   2 hrs 59 mins       █████████████████████████   100.00%
-
-💬 Languages:
-CSS                       2 hrs 49 mins       ████████████████████████░   94.37%
-Others                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63%
 ```
 
 **🔥 I Mostly Code in Markdown**
@@ -74,5 +59,5 @@ HTML                      1 repo              ██░░░░░░░░░�
 
 
 
-⏳ *Last updated on 26.08.2026 21:56:46 CEST*
+⏳ *Last updated on 27.08.2026 00:58:13 CEST*
 <!--END_SECTION:readme-stats-->
