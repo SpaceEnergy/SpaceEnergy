@@ -14,6 +14,10 @@
 ```text
 🔥 Current Streak:        0 days
 🏆 Longest Streak:        27 days
+📊 Daily Average:         1 hrs 17 mins
+💪 Total Coding Time:     723 hrs 32 mins
+🎯 Coding Consistency:    53.7%
+📅 Active Days:           557 days
 ```
 
 **🕒 I'm A Twilight Taskmaster 🌆**
@@ -37,6 +41,19 @@ Friday                    219 commits         ███░░░░░░░░�
 Saturday                  324 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77%
 ```
 
+**📅 Last 7 Days Stats**
+
+```text
+📝 Editors:
+VS Code                   4 hrs 13 mins       █████████████████████████   100.00%
+
+💬 Languages:
+CSS                       2 hrs 49 mins       █████████████████░░░░░░░░   66.81%
+Lua                       1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.36%
+Markdown                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79%
+Others                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04%
+```
+
 **🔥 I Mostly Code in Markdown**
 
 ```text
@@ -49,15 +66,15 @@ HTML                      1 repo              ██░░░░░░░░░�
 
 **💬 Languages & Tools**
 
-![CSS](https://img.shields.io/badge/CSS-84.55%25-563d7c?&logo=CSS&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-84.56%25-563d7c?&logo=CSS&labelColor=151b23)
 ![HTML](https://img.shields.io/badge/HTML-10.55%25-e34c26?&logo=HTML&labelColor=151b23)
 ![JavaScript](https://img.shields.io/badge/JavaScript-02.49%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![Markdown](https://img.shields.io/badge/Markdown-01.64%25-083fa1?&logo=Markdown&labelColor=151b23)
+![Markdown](https://img.shields.io/badge/Markdown-01.63%25-083fa1?&logo=Markdown&labelColor=151b23)
 ![PowerShell](https://img.shields.io/badge/PowerShell-00.51%25-012456?&logo=PowerShell&labelColor=151b23)
 ![Shell](https://img.shields.io/badge/Shell-00.26%25-89e051?&logo=Shell&labelColor=151b23)
 
 
 
 
-⏳ *Last updated on 28.08.2026 08:04:37 CEST*
+⏳ *Last updated on 28.08.2026 22:08:49 CEST*
 <!--END_SECTION:readme-stats-->
