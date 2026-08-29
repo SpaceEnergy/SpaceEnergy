@@ -14,6 +14,10 @@
 ```text
 🔥 Current Streak:        0 days
 🏆 Longest Streak:        27 days
+📊 Daily Average:         1 hrs 17 mins
+💪 Total Coding Time:     724 hrs 46 mins
+🎯 Coding Consistency:    53.7%
+📅 Active Days:           557 days
 ```
 
 **🕒 I'm A Twilight Taskmaster 🌆**
@@ -37,11 +41,25 @@ Friday                    219 commits         ███░░░░░░░░�
 Saturday                  324 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77%
 ```
 
-**🔥 I Mostly Code in CSS**
+**📅 Last 7 Days Stats**
 
 ```text
-CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
+📝 Editors:
+VS Code                   5 hrs 29 mins       █████████████████████████   100.00%
+
+💬 Languages:
+CSS                       2 hrs 49 mins       █████████████░░░░░░░░░░░░   51.30%
+Lua                       1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   35.70%
+JSON                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97%
+Markdown                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44%
+Others                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59%
+```
+
+**🔥 I Mostly Code in Markdown**
+
+```text
 Markdown                  6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
+CSS                       6 repos             █████████░░░░░░░░░░░░░░░░   37.50%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
 Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
 HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25%
@@ -49,15 +67,15 @@ HTML                      1 repo              ██░░░░░░░░░�
 
 **💬 Languages & Tools**
 
-![CSS](https://img.shields.io/badge/CSS-84.56%25-563d7c?&logo=CSS&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-84.55%25-563d7c?&logo=CSS&labelColor=151b23)
 ![HTML](https://img.shields.io/badge/HTML-10.55%25-e34c26?&logo=HTML&labelColor=151b23)
 ![JavaScript](https://img.shields.io/badge/JavaScript-02.49%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![Markdown](https://img.shields.io/badge/Markdown-01.63%25-083fa1?&logo=Markdown&labelColor=151b23)
+![Markdown](https://img.shields.io/badge/Markdown-01.64%25-083fa1?&logo=Markdown&labelColor=151b23)
 ![PowerShell](https://img.shields.io/badge/PowerShell-00.51%25-012456?&logo=PowerShell&labelColor=151b23)
 ![Shell](https://img.shields.io/badge/Shell-00.26%25-89e051?&logo=Shell&labelColor=151b23)
 
 
 
 
-⏳ *Last updated on 29.08.2026 05:37:49 CEST*
+⏳ *Last updated on 29.08.2026 13:00:14 CEST*
 <!--END_SECTION:readme-stats-->
