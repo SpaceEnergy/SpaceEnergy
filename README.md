@@ -62,8 +62,8 @@ Others                    27 mins             ████░░░░░░░�
 CSS                       6 repos             ██████████░░░░░░░░░░░░░░░   40.00%
 Markdown                  5 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
-HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67%
 Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67%
+HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67%
 ```
 
 **💬 Languages & Tools**
@@ -78,5 +78,5 @@ Shell                     1 repo              ██░░░░░░░░░�
 
 
 
-⏳ *Last updated on 06.09.2026 10:33:02 CEST*
+⏳ *Last updated on 06.09.2026 15:32:33 CEST*
 <!--END_SECTION:readme-stats-->
