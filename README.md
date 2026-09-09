@@ -14,6 +14,10 @@
 ```text
 🔥 Current Streak:        0 days
 🏆 Longest Streak:        27 days
+📊 Daily Average:         1 hrs 17 mins
+💪 Total Coding Time:     731 hrs 38 mins
+🎯 Coding Consistency:    53.9%
+📅 Active Days:           565 days
 ```
 
 **🕒 I'm A Twilight Taskmaster 🌆**
@@ -35,6 +39,22 @@ Wednesday                 282 commits         ███░░░░░░░░�
 Thursday                  238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50%
 Friday                    218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54%
 Saturday                  336 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24%
+```
+
+**📅 Last 7 Days Stats**
+
+```text
+📝 Editors:
+VS Code                   3 hrs 43 mins       █████████████████████████   100.00%
+
+💬 Languages:
+Lua                       1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   38.52%
+JavaScript                42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85%
+CSS                       39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.86%
+JSON                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92%
+Markdown                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19%
+Bash                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24%
+Others                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43%
 ```
 
 **🔥 I Mostly Code in CSS**
@@ -59,5 +79,5 @@ HTML                      1 repo              ██░░░░░░░░░�
 
 
 
-⏳ *Last updated on 09.09.2026 00:31:52 CEST*
+⏳ *Last updated on 09.09.2026 05:57:16 CEST*
 <!--END_SECTION:readme-stats-->
