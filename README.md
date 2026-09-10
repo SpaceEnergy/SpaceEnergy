@@ -12,12 +12,8 @@
 **📈 Coding Streak**
 
 ```text
-🔥 Current Streak:        1 day
+🔥 Current Streak:        0 days
 🏆 Longest Streak:        27 days
-📊 Daily Average:         1 hrs 17 mins
-💪 Total Coding Time:     731 hrs 38 mins
-🎯 Coding Consistency:    53.8%
-📅 Active Days:           565 days
 ```
 
 **🕒 I'm A Twilight Taskmaster 🌆**
@@ -41,30 +37,14 @@ Friday                    218 commits         ███░░░░░░░░�
 Saturday                  336 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23%
 ```
 
-**📅 Last 7 Days Stats**
-
-```text
-📝 Editors:
-VS Code                   3 hrs 16 mins       █████████████████████████   100.00%
-
-💬 Languages:
-Lua                       1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   31.63%
-JavaScript                42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44%
-CSS                       39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32%
-JSON                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42%
-Markdown                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18%
-Bash                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94%
-Others                                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06%
-```
-
 **🔥 I Mostly Code in CSS**
 
 ```text
 CSS                       6 repos             ██████████░░░░░░░░░░░░░░░   40.00%
 Markdown                  5 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
 PowerShell                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
-HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67%
 Shell                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67%
+HTML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67%
 ```
 
 **💬 Languages & Tools**
@@ -79,5 +59,5 @@ Shell                     1 repo              ██░░░░░░░░░�
 
 
 
-⏳ *Last updated on 10.09.2026 16:14:08 CEST*
+⏳ *Last updated on 11.09.2026 00:24:51 CEST*
 <!--END_SECTION:readme-stats-->
