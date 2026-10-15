@@ -2,6 +2,8 @@
 
 <img src="./hello.svg" alt="Hello">
 
+<img src="./typing.svg" width="860" alt="building SpaceTheme for Steam, Discord &amp; more · working on the German Star Citizen Wiki · writing way too much CSS" />
+
 <!-- contribution graph: real data, regenerated daily by .github/workflows/update-profile-art.yml -->
 <h3><code>spaceenergy@github ~ $ ./contributions.sh</code></h3>
 
@@ -32,11 +34,47 @@
 <br>
 <br>
 
+<!-- project cards: top public repos, regenerated daily by scripts/render_projects_svg.py -->
+<h3><code>spaceenergy@github ~ $ ls ~/projects</code></h3>
+
+<!--PROJECTS:START-->
+<table>
+<tr>
+<td><a href="https://github.com/SpaceTheme/Steam"><img src="./projects/card-0.svg" width="415" alt="SpaceTheme/Steam" /></a></td>
+<td><a href="https://github.com/SpaceTheme/Steam-Custom-Artworks"><img src="./projects/card-1.svg" width="415" alt="SpaceTheme/Steam-Custom-Artworks" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SpaceTheme/Discord"><img src="./projects/card-2.svg" width="415" alt="SpaceTheme/Discord" /></a></td>
+<td><a href="https://github.com/SpaceTheme/Installer"><img src="./projects/card-3.svg" width="415" alt="SpaceTheme/Installer" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SpaceTheme/SpaceTheme"><img src="./projects/card-4.svg" width="415" alt="SpaceTheme/SpaceTheme" /></a></td>
+<td><a href="https://github.com/SpaceEnergy/SpaceEnergy.github.io"><img src="./projects/card-5.svg" width="415" alt="SpaceEnergy/SpaceEnergy.github.io" /></a></td>
+</tr>
+</table>
+<!--PROJECTS:END-->
+
+<br>
+<br>
+
+<!-- recent public activity, regenerated daily by scripts/render_activity_svg.py -->
+<h3><code>spaceenergy@github ~ $ tail activity.log</code></h3>
+
+<img src="./activity.svg" width="860" alt="SpaceEnergy's recent GitHub activity, refreshed daily" />
+
+<br>
+<br>
+
 <h3><code>spaceenergy@github ~ $ ./links.sh</code></h3>
 
 [![Website](https://img.shields.io/badge/Website-spaceenergy.github.io-8b8cff?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117)](https://spaceenergy.github.io)
 [![SpaceThemes](https://img.shields.io/badge/Project-SpaceThemes-8b8cff?style=for-the-badge&logo=css&logoColor=white&labelColor=0d1117)](https://spaceenergy.github.io/projects/spacetheme/)
 [![Discord](https://img.shields.io/badge/Discord-SpaceThemes-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.gg/7Zv8Xz3Vzn)
 [![Star Citizen Wiki](https://img.shields.io/badge/Star_Citizen_Wiki-DE-8b8cff?style=for-the-badge&logo=wikibooks&logoColor=white&labelColor=0d1117)](https://star-citizen.wiki)
+
+<br>
+<br>
+
+<img src="./footer.svg" width="860" alt="A ringed planet, an orbiting moon and a rocket: thanks for stopping by, see you among the stars" />
 
 </div>

@@ -32,9 +32,9 @@ PERIODS = [  # (name, hours, color, verdict)
 ]
 LANG_COLORS = {
     "CSS": "#663399", "HTML": "#e34c26", "JavaScript": "#f1e05a", "TypeScript": "#3178c6",
-    "Python": "#3572A5", "Shell": "#89e051", "PowerShell": "#012456", "Markdown": "#083fa1",
+    "Python": "#3572A5", "Shell": "#89e051", "PowerShell": "#3d7cc9", "Markdown": "#083fa1",
     "Java": "#b07219", "C#": "#178600", "C++": "#f34b7d", "C": "#555555", "Go": "#00ADD8",
-    "Rust": "#dea584", "Lua": "#000080", "SCSS": "#c6538c", "Vue": "#41b883", "PHP": "#4F5D95",
+    "Rust": "#dea584", "Lua": "#5b6ee1", "SCSS": "#c6538c", "Vue": "#41b883", "PHP": "#4F5D95",
     "Batchfile": "#C1F12E", "Dockerfile": "#384d54", "Kotlin": "#A97BFF", "Svelte": "#ff3e00",
 }
 FALLBACK = ["#8b8cff", "#a3a6ff", "#6a6ef0", "#4447b0"]
@@ -112,8 +112,8 @@ tiles = [
     ("streak", f'{contrib["current_streak"]}d'),
     ("longest", f'{contrib["longest_streak"]}d'),
     ("repos", fmt(data["repos"])),
+    ("orgs", str(len(data.get("orgs", [])))),
     ("stars", fmt(data["stars"])),
-    ("since", data["member_since"]),
 ]
 tw = (W - 2 * PAD - (len(tiles) - 1) * GAP) / len(tiles)
 for i, (label, value) in enumerate(tiles):
@@ -191,9 +191,10 @@ for i, n in enumerate(days):
 # ---- languages ------------------------------------------------------------------
 langs = data["languages"]
 total_b = sum(l["bytes"] for l in langs) or 1
-top = langs[:8]
-rest = sum(l["bytes"] for l in langs[8:])
-if rest:
+# top 8 that round to at least 0.1%, everything else becomes "Other"
+top = [l for l in langs[:8] if l["bytes"] / total_b >= 0.0005]
+rest = total_b - sum(l["bytes"] for l in top)
+if rest / total_b >= 0.0005:
     top.append({"name": "Other", "bytes": rest, "repos": 0})
 colors = {}
 for i, l in enumerate(top):
@@ -227,7 +228,8 @@ for i, l in enumerate(top):
 
 # ---- footer ---------------------------------------------------------------------
 updated = datetime.datetime.fromisoformat(data["generated_at"].replace("Z", "+00:00")).strftime("%Y-%m-%d")
-text(PAD, H - 16, f'<tspan fill="{ACCENT}">~$</tspan> last updated {updated} · times in {data["time_zone"]}',
+text(PAD, H - 16, f'<tspan fill="{ACCENT}">~$</tspan> last updated {updated} · times in {data["time_zone"]}'
+     + (f' · incl. {esc(", ".join(data["orgs"]))}' if data.get("orgs") else ""),
      fill=MUTED, size=11, d=delay + 0.6, preserve=True)
 
 add("</svg>")
