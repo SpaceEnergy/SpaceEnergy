@@ -1,6 +1,6 @@
 name: Update profile art
 
-# Refreshes the contribution heatmap + info card SVGs from real data.
+# Refreshes the contribution heatmap, info card and stats SVGs from real data.
 
 on:
   schedule:
@@ -10,7 +10,6 @@ on:
     branches: [main]
     paths: ['scripts/**', '.github/workflows/update-profile-art.yml']
 
-# same group as update-stats.yml so the two never push at the same time
 concurrency:
   group: github-stats
   cancel-in-progress: false
@@ -36,16 +35,22 @@ jobs:
     - name: Fetch contribution data (public, no token)
       run: python scripts/fetch_contributions.py
 
+    - name: Fetch commit + language stats (GH_TOKEN includes private repos)
+      run: python scripts/fetch_stats.py
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
     - name: Render SVGs
       run: |
         python scripts/render_heatmap_svg.py
         python scripts/make_info_card.py
+        python scripts/render_stats_svg.py
 
     - name: Commit
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add data/contributions.json contrib-heatmap.svg info-card.svg
+        git add data/contributions.json data/stats.json contrib-heatmap.svg info-card.svg stats.svg
         git diff --cached --quiet && exit 0
         git commit -m "update profile art [skip ci]"
         git pull --rebase
